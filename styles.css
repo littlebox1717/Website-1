@@ -3,15 +3,15 @@
   padding: 0;
   font-family: "Roboto", sans-serif;
 }
-header {
+/* header {
   padding: 25px;
-}
+} */
 .container {
   max-width: 900px;
   margin: 0 auto;
 }
 
-nav {
+/* nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -38,8 +38,8 @@ ul li a {
   border-radius: 10px;
   font-size: 18px;
   font-weight: bold;
-}
-/* .banner-parent {
+} */
+.banner-parent {
   background-image:
     linear-gradient(
       to right,
@@ -83,6 +83,7 @@ ul li a {
   font-size: 25px;
   font-weight: bold;
 }
+/*
 .speaker-parent {
   padding-bottom: 90px;
 }
