@@ -38,7 +38,7 @@ ul li a {
   border-radius: 10px;
   font-size: 18px;
   font-weight: bold;
-} */
+} 
 .banner-parent {
   background-image:
     linear-gradient(
@@ -82,8 +82,8 @@ ul li a {
   border-radius: 6px;
   font-size: 25px;
   font-weight: bold;
-}
-/*
+}*/
+
 .speaker-parent {
   padding-bottom: 90px;
 }
@@ -130,6 +130,7 @@ ul li a {
   margin-bottom: 40px;
   padding-left: 30px;
 }
+/*
 .secure-parent {
   width: 80%;
   margin: 0 auto;
