@@ -230,7 +230,7 @@ hr {
 li::marker {
   color: blue;
 }
-*/
+
 .schedule {
   width: 80%;
   margin: 80px auto;
@@ -316,7 +316,7 @@ li::marker {
   color: #64748b;
   line-height: 1.7;
 }
-/*
+*/
 .footer {
   color: white;
   background-color: #0d1b2a;
@@ -344,5 +344,5 @@ li::marker {
 .footer-first .foot h4
 {
      display: inline-block;
-} */
+} 
 
