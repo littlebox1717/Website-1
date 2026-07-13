@@ -315,7 +315,7 @@ li::marker {
 .content p {
   color: #64748b;
   line-height: 1.7;
-}
+}*/
 
 .footer {
   color: white;
@@ -345,8 +345,8 @@ li::marker {
 {
      display: inline-block;
 } 
-*/
-.secure-parent {
+
+/* .secure-parent {
   width: 80%;
   margin: 0 auto;
  
@@ -444,4 +444,4 @@ hr {
 }
 li::marker {
   color: blue;
-}
+} */
