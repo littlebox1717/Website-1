@@ -230,7 +230,7 @@ hr {
 li::marker {
   color: blue;
 }
-
+/*
 .schedule {
   width: 80%;
   margin: 80px auto;
@@ -316,7 +316,7 @@ li::marker {
   color: #64748b;
   line-height: 1.7;
 }
-*/
+
 .footer {
   color: white;
   background-color: #0d1b2a;
@@ -345,4 +345,103 @@ li::marker {
 {
      display: inline-block;
 } 
+*/
+.secure-parent {
+  width: 80%;
+  margin: 0 auto;
+ 
+}
+.secure-head {
+  text-align: center;
+  margin-bottom: 45px;
+}
+.secure-head h1 {
+  font-weight: bold;
+  font-size: 42px;
+  margin-bottom: 15px;
+}
+.secure-head p {
+  font-size: 15px;
+  color: #575757;
+  margin-bottom: 15px;
+}
+.secure-child {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  text-align: left;
+}
 
+span {
+  color: #888888;
+}
+.span-1 {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 15px;
+}
+hr {
+  margin: 20px auto;
+}
+.card-1 {
+  display: grid;
+  gap: 10px;
+}
+.outline-btn-dot button {
+  border: none;
+  background-color: #1d4ed8;
+  color: white;
+  border-radius: 6px;
+  font-weight: bold;
+  font-size: 17px;
+  width: 270px;
+  height: 40px;
+  text-align: center;
+  padding-left: 20px;
+  margin-top: 65px;
+}
+.outline-btn button {
+  border: 1px solid #1d4ed8;
+  background-color: white;
+  color: #1d4ed8;
+  border-radius: 6px;
+  font-weight: normal;
+  width: 270px;
+  height: 40px;
+  text-align: center;
+  padding-left: 20px;
+  margin-top: 20px;
+}
+
+.secure-list {
+  padding-left: 20px;
+  display: grid;
+  gap: 10px;
+  font-size: 5px;
+  font-size: normal;
+  color:  #575757;
+}
+.secure-list-type {
+  padding-left: 20px;
+  display: grid;
+  gap: 10px;
+  font-size: 10px;
+   color:  #575757;
+}
+.secure-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  padding: 15px;
+}
+.type {
+  background-color: #0d1b2a;
+  color: white !important;
+}
+.pro {
+  color: #1d4ed8;
+}
+li::marker {
+  color: blue;
+}
